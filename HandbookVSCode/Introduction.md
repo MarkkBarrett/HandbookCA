@@ -21,4 +21,4 @@ Purpose of the document and outline documents structure, for example introductio
 - bullet points
 ![sampleDiagram](Content/Diagrams/sample_diagram.png)
 ### References
-1. name/website, (date) "Title". Available at : link
+1. BairesDev, (n/d) "5 tips for writing clean and maintainable code". Available at : [5 tips for writing clean and maintainable code](https://www.bairesdev.com/blog/5-tips-for-writing-clean-and-maintainable-code/)
