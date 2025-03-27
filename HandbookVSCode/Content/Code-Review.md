@@ -2,7 +2,7 @@
 
 ## Quick Summary
 
-Explanation of topic
+A code review is the process where one or more developers look over else’s code before it’s merged into the main codebase. The goal is to improve code quality, catch bugs early, and share knowledge across the team.
 
 ## Do’s
 - Review pull requests asap 
