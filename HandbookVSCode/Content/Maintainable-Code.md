@@ -2,7 +2,7 @@
 
 ## Quick Summary
 
-Explanation of topic
+Maintainable code relates to the point that written code should be clear, concise, and easy to understand and modify. All coding projects must be maintained correctly or else delay or failure may occur.
 
 ## Do’s
 - bullet points
