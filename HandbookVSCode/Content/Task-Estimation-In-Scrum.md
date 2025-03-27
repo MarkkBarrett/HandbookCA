@@ -5,19 +5,15 @@
 Explanation of topic
 
 ## Do’s
-<<<<<<< HEAD
 - Use relative estimation (story points etc.) instead of estimation in hours
-=======
-- bullet points
->>>>>>> 688b3ce7f003ace0ee70b42f6543f6481f92f627
 
 ## Dont’s
-- bullet points
+- Don’t convert story points into hours as it defeats the purpose and leads to confusion
 
 ## Full Guidelines for Best Practices
 
-**1. Title of Guideline in Bold**
+**1. 1.	Estimate tasks using story points, not time**
 
-Explanation of guideline. Should be around this length. Should be around this length. Should be around this length. Should be around this length. Should be around this length. Should be around this length. Should be around this length. Should be around this length. Should be around this length.
+Use story points to compare the relative effort of tasks. Don’t convert story points into hours or days because this removes the flexibility and often leads to unrealistic expectations. Estimates should help with planning, not act as time-tracking tools or deadlines.
 
 **2. Title of Guideline in Bold**
