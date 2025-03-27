@@ -5,7 +5,11 @@
 Explanation of topic
 
 ## Do’s
+<<<<<<< HEAD
 - Use relative estimation (story points etc.) instead of estimation in hours
+=======
+- bullet points
+>>>>>>> 688b3ce7f003ace0ee70b42f6543f6481f92f627
 
 ## Dont’s
 - bullet points
