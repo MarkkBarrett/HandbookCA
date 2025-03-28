@@ -27,3 +27,11 @@ No, you don't need to breakdance. I'm talking about modularity! Breaking your co
 **3. Code duplication**
 
 Avoid, avoid, avoid. Code should not be repeated throughout the project. We don't want to create long, repetitive and redundant code. Reducing code duplication makes our code clearer and less error prone when expanding. Write it once, reuse it everywhere. Modular and readable code from the points above will enable the team to avoid needless duplication of code.
+
+**4. Remove dead code**
+
+Companies may work on pieces of code for months or years. New developers will join the team or old ideas will be scrapped. Inevitably, dead code will be present, whether it is a method or even a class. Removing dead code has obvious benefits, but making the code smaller makes it easier to maintain and understand.
+
+**5. Using a common/meaningful branching strategy**
+
+It is obvious that developers should not work on the same branch, as doing this can lead to merging conflicts or poor code isolation. For new development feature branches should be used, and for urgent bug fixes use hotfix branches. Using a strategy can reduce merge conflicts, improve collaboration, and maintain stable code.
