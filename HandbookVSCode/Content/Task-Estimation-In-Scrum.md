@@ -8,11 +8,13 @@ Explanation of topic
 - Use relative estimation
 - Break down any story with high estimates
 - Let everyone on the team collaborate
+- Compare past estimations to actual work
 
 ## Dont’s
 - Convert story points into hours
 - Use estimates as performance metrics
 - Tie estimates to external contracts/ rewards
+- Skip retrospective review meetings
 
 ## Full Guidelines for Best Practices
 
@@ -27,6 +29,10 @@ Break down any story estimated at 13 points or more. Larger tasks usually hide u
 **3. Use estimation as a team activity**
 
 Involve the entire Scrum team when estimating. Everyone's input matters and having multiple different perspectives leads to better planning. Don’t let one person have the final say because it reduces collaboration and can lead to missed or overconfidence in estimates. It should be a team decision.
+
+**4. Review and Refine Your Estimates Regularly**
+
+After every sprint, take some time as a team to look back at how your estimates compared to the actual work. Discuss what was overestimated or underestimated during your previous meetings, and adjust your estimation approach for going forward. This helps your team make more accuarte predictions in the future.
 
 
 
