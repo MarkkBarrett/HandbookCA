@@ -6,14 +6,14 @@ A code review is the process where one or more developers look over someone else
 
 ## Do’s
 - Review pull requests asap 
-- State review content clearly
+- Clearly explain the content of the review
 - Break down large tasks
 - Review code thoroughly
 
 ## Dont’s
 - Let pull requests sit idle
-- Do not be vague in reviewing
-- Don't overload a single commmit
+- Be vague in reviewing
+- Overload a single commmit
 - Skim blindly through reviews
 
 ## Full Guidelines for Best Practices
