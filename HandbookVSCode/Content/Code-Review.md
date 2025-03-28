@@ -9,12 +9,18 @@ A code review is the process where one or more developers look over someone else
 - Clearly explain the content of the review
 - Break down large tasks
 - Review code thoroughly
+- Provide clear context for the reviewer
+- Use pair programming
+- Schedule regular code reviews
 
 ## Dont’s
 - Let pull requests sit idle
 - Be vague in reviewing
 - Overload a single commmit
 - Skim blindly through reviews
+- Rush reviewers
+- Pairing without clear objectives
+- Postpone reviews
 
 ## Full Guidelines for Best Practices
 
@@ -34,5 +40,14 @@ Code reviews often require a lot of time and effort by the reviewers. When devel
 
 Even though we should do code reviews as fast as possible, it should not impact the quality. If your doing a code review, you should actually take the time to read through the review, understand the changes made and catch issues. You need to maintain a standard of high quality. Skimming through the pull request can cause little bugs to be missed.
 
+**5. Asychronous the reviews**
 
+Allowing reviewers to asychronously review the code means reviewers can review the code indepentently and at their own pace. The review can be sent around by email by the code author. Reviewing code like this is well-suited for teams working remotely or in different time zones.
 
+**6. Work in pair programming**
+
+Pair programming is when two developers are working on code. One writes the code while the other checks it to give instant feedback. When a deadline is due or the work load is large, this can reduce time needed to approve the final product.
+
+**7. Regular reviews**
+
+Akin to keeping the code maintainable, old and unused branches can clutter the repository. Reviews should take place on a regular fixed schedule to reduce confusion and keep the repository clean. Regularly reviewing the code/repositoiry keeps everything organized and prevents a build up of errors overtime.
