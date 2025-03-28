@@ -12,6 +12,8 @@ A code review is the process where one or more developers look over someone else
 - Provide clear context for the reviewer
 - Use pair programming
 - Schedule regular code reviews
+- Ensure code meets all standards before pushing
+- Include detailed pull review descriptions
 
 ## Dont’s
 - Let pull requests sit idle
@@ -21,6 +23,8 @@ A code review is the process where one or more developers look over someone else
 - Rush reviewers
 - Pairing without clear objectives
 - Postpone reviews
+- Push code without meeting standards
+- Submit vague pull requests
 
 ## Full Guidelines for Best Practices
 
@@ -51,3 +55,11 @@ Pair programming is when two developers are working on code. One writes the code
 **7. Regular reviews**
 
 Akin to keeping the code maintainable, old and unused branches can clutter the repository. Reviews should take place on a regular fixed schedule to reduce confusion and keep the repository clean. Regularly reviewing the code/repositoiry keeps everything organized and prevents a build up of errors overtime.
+
+**8. Meet review standards**
+
+All code that is pushed and waiting to be merged needs to meet standard set by reviewers. If the code does not meet regulations, it can create the need for more code reviews to be set up. Not only is this time-consuming but it can also cost the organisation if developers manually review the code without using any code review tools. 
+
+**9. Provide Clear Pull Request Descriptions**
+
+Before submitting a pull request, include a detailed description of the changes made and the reason why you made them. This helps reviewers quickly understand the purpose of the update, leading to more effective reviews.
