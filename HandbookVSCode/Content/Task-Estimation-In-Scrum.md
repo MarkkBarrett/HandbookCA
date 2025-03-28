@@ -9,12 +9,16 @@ Explanation of topic
 - Break down any story with high estimates
 - Let everyone on the team collaborate
 - Compare past estimations to actual work
+- Focus on adaptability
+- Use techniques to encourage team collaboration
 
 ## Dont’s
 - Convert story points into hours
 - Use estimates as performance metrics
 - Tie estimates to external contracts/ rewards
 - Skip retrospective review meetings
+- Convert absolute time into story points
+- Let individual biases override team input
 
 ## Full Guidelines for Best Practices
 
@@ -34,5 +38,10 @@ Involve the entire Scrum team when estimating. Everyone's input matters and havi
 
 After every sprint, take some time as a team to look back at how your estimates compared to the actual work. Discuss what was overestimated or underestimated during your previous meetings, and adjust your estimation approach for going forward. This helps your team make more accuarte predictions in the future.
 
+**5. Avoid "Frankenstein Estimates**
 
+Developers should be careful about converting absolutute time estimates into story points. This undermines the fundamental agile principles of flexibility and adaptability. Practicing the Frankenstein estimates can introduce several problems, including loss of context and misaligning with agile values. 
 
+**6. Utilise collaborative techniques**
+
+Estimation techniques such as planning poker. This is a technique used where each developer is equipped with a set of cards representing the Fibonacci sequence. After discussing a new task, each team member presents a card from their hand, facilitating a collaborative estimation process. This method encourages everyone to share their perspective and drives a more reliable consensus.
