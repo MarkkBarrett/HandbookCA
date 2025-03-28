@@ -8,11 +8,17 @@ Maintainable code relates to the point that written code should be clear, concis
 - Use clear, readable code
 - Create shorter, more specific functions
 - Reuse code with functions
+- Refactor to reduce code
+- Use a branching strategy
+- Maintain a clear commit history
 
 ## Dont’s
 - Avoid inconsistent attribute names
 - Write one giant function
 - Copy and paste the same logic
+- Do not leave dead code lingering
+- Do not share the same branch
+- Do not merge multiple unrelated commits
 
 ## Full Guidelines for Best Practices
 
@@ -35,3 +41,7 @@ Companies may work on pieces of code for months or years. New developers will jo
 **5. Using a common/meaningful branching strategy**
 
 It is obvious that developers should not work on the same branch, as doing this can lead to merging conflicts or poor code isolation. For new development feature branches should be used, and for urgent bug fixes use hotfix branches. Using a strategy can reduce merge conflicts, improve collaboration, and maintain stable code.
+
+**6. Keep the commit history clean**
+
+Multiple commits that are small and unrelated can lead to cluttering and cause a deconstructed commit history. Developers should squash related commits before merging and use interactive rebase to clean up commit history. Keeping the commit history clean and readable avoids unnecessary clutter.
