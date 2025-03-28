@@ -16,9 +16,9 @@ Maintainable code relates to the point that written code should be clear, concis
 - Avoid inconsistent attribute names
 - Write one giant function
 - Copy and paste the same logic
-- Do not leave dead code lingering
-- Do not share the same branch
-- Do not merge multiple unrelated commits
+- Don't leave dead code lingering
+- Don't share the same branch
+- Don't not merge multiple unrelated commits
 
 ## Full Guidelines for Best Practices
 
