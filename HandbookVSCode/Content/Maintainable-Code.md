@@ -33,7 +33,7 @@ Maintainable code relates to the point that written code should be clear, concis
 
 **1. Ensure code is readable**
 
-All the code should be easy to understand for everyone involved in the project, and even developers who didn't contribute. It is best practise to have common atribute names, formatting, and indentation across all de-velopers to maintain code uniformity.
+All the code should be easy to understand for everyone involved in the project, and even developers who didn't contribute. It is best practise to have common atribute names, formatting, and indentation across all developers to maintain code uniformity.
 
 **2. Break it down 🕺**
 
@@ -59,11 +59,11 @@ Multiple commits that are small and unrelated can lead to cluttering and cause a
 
 Write comments that explains the code and the reasoning behind it, especially on code that isnt obvious. It helps future developers understand the code and the intent. Avoid stating the obvious and putting in unnecessary comments though too. Ensure comments are updated along side code updates to avoid misleading. 
 
-**8. Have consistent Naming styles**
+**8. Have consistent naming styles**
 
 Pick names of variables/ functions that are relevant and reflect what it should be doing. Stick to one naming style throughout the code as inconsistency leads to confusion. Good naming improves readability, makes collaberation easier, and reduces the time spent trying to figure out what something does.
 
-**9. Write Unit tests**
+**9. Write unit tests**
 
 Unit testing protects code from regressions and helps ensure future changes dont break existing code. Focus on testing critical paths and business logic. Although writing out these tests takes time, it will save you in the long run when refactoring or debugging further down the line.
 
