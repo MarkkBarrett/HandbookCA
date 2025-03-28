@@ -59,15 +59,11 @@ Multiple commits that are small and unrelated can lead to cluttering and cause a
 
 Write comments that explains the code and the reasoning behind it, especially on code that isnt obvious. It helps future developers understand the code and the intent. Avoid stating the obvious and putting in unnecessary comments though too. Ensure comments are updated along side code updates to avoid misleading. 
 
-**8. Have consistent naming styles**
-
-Pick names of variables/ functions that are relevant and reflect what it should be doing. Stick to one naming style throughout the code as inconsistency leads to confusion. Good naming improves readability, makes collaberation easier, and reduces the time spent trying to figure out what something does.
-
-**9. Write unit tests**
+**8. Write unit tests**
 
 Unit testing protects code from regressions and helps ensure future changes dont break existing code. Focus on testing critical paths and business logic. Although writing out these tests takes time, it will save you in the long run when refactoring or debugging further down the line.
 
-**10. Document your codebase**
+**9. Document your codebase**
 
 Every project should have a basic documentation explaining the setup process and contain an overview. Clear documentaion speeds up onboarding, reduces mistakes and helps the team work independently without asking the same questions over and over again. 
 
