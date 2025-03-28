@@ -7,10 +7,12 @@ Maintainable code relates to the point that written code should be clear, concis
 ## Do’s
 - Use clear, readable code
 - Create shorter, more specific functions
+- Reuse code with functions
 
 ## Dont’s
 - Avoid inconsistent attribute names
 - Write one giant function
+- Copy and paste the same logic
 
 ## Full Guidelines for Best Practices
 
