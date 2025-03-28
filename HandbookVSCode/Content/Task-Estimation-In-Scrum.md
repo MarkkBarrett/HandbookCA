@@ -38,7 +38,7 @@ Involve the entire Scrum team when estimating. Everyone's input matters and havi
 
 After every sprint, take some time as a team to look back at how your estimates compared to the actual work. Discuss what was overestimated or underestimated during your previous meetings, and adjust your estimation approach for going forward. This helps your team make more accuarte predictions in the future.
 
-**5. Avoid "Frankenstein Estimates**
+**5. Avoid Frankenstein Estimates**
 
 Developers should be careful about converting absolutute time estimates into story points. This undermines the fundamental agile principles of flexibility and adaptability. Practicing the Frankenstein estimates can introduce several problems, including loss of context and misaligning with agile values. 
 
