@@ -2,7 +2,7 @@
 
 ## Quick Summary
 
-Explanation of topic
+Task estimation in Scrum is a collaborative process where the team assesses how much work is involved in each task. Instead of using precise time estimates, they compare tasks using measures like story points. This approach helps the team plan sprints effectively and manage workload by ensuring tasks are balanced.
 
 ## Do’s
 - Use relative estimation
@@ -11,6 +11,7 @@ Explanation of topic
 - Compare past estimations to actual work
 - Focus on adaptability
 - Use techniques to encourage team collaboration
+- Treat estimate as prediction
 
 ## Dont’s
 - Convert story points into hours
@@ -19,6 +20,7 @@ Explanation of topic
 - Skip retrospective review meetings
 - Convert absolute time into story points
 - Let individual biases override team input
+- Treat estimate as deadline
 
 ## Full Guidelines for Best Practices
 
@@ -45,3 +47,7 @@ Developers should be careful about converting absolutute time estimates into sto
 **6. Utilise collaborative techniques**
 
 Estimation techniques such as planning poker. I know, I know, boring. But this is the how behind the why of "Use estimation as a team activity".This is a technique used where each developer is equipped with a set of cards representing the Fibonacci sequence. After discussing a new task, each team member presents a card from their hand, facilitating a collaborative estimation process. This method encourages everyone to share their perspective and drives a more reliable consensus.
+
+**7. Treat Estimates as Forecasts**
+
+An estimate is a prediction, not a definite. In Scrum, story points help plan out the work load and timeline, but they are not a contract​. Many factors can change once development starts so you should avoid treating an estimate as an immovable deadline. Instead you should communicate that estimates have uncertainty.
