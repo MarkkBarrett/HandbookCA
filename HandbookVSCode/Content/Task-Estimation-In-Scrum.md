@@ -44,4 +44,4 @@ Developers should be careful about converting absolutute time estimates into sto
 
 **6. Utilise collaborative techniques**
 
-Estimation techniques such as planning poker. This is a technique used where each developer is equipped with a set of cards representing the Fibonacci sequence. After discussing a new task, each team member presents a card from their hand, facilitating a collaborative estimation process. This method encourages everyone to share their perspective and drives a more reliable consensus.
+Estimation techniques such as planning poker. I know, I know, boring. But this is the how behind the why of "Use estimation as a team activity".This is a technique used where each developer is equipped with a set of cards representing the Fibonacci sequence. After discussing a new task, each team member presents a card from their hand, facilitating a collaborative estimation process. This method encourages everyone to share their perspective and drives a more reliable consensus.
