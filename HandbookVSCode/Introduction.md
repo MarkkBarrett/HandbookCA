@@ -4,8 +4,13 @@ Purpose of the document and outline documents structure, for example introductio
 
 ## Task Estimation in Scrum
 
-- bullet 
-- points
+- Estimate tasks using story points instead of hours to keep things flexible
+- Split large stories into smaller, manageable chunks before including them in sprints
+- Always estimate as a team to get diverse input and avoid biting of more than you can chew
+- Review estimates after each sprint to improve future planning accuracy
+- Don’t convert time into story points as this breaks agile flexibility
+- Use collaborative techniques such as planning poker to get team-wide consensus
+
 ![sampleDiagram](Content/Diagrams/sample_diagram.png)
 ### References
 1. Pat, (2024) "Let’s talk about Estimates". Available at : [Let’s talk about Estimates](https://medium.com/@patrickbrock_40978/lets-talk-about-estimates-f4ca45db96fb)
