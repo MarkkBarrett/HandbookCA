@@ -68,4 +68,4 @@ Before submitting a pull request, include a detailed description of the changes 
 
 **10. Avoid "gatekeeper" mentality**
 
-Code reviews should have a supportive environment for improving the codebase and team skills. Adopting a "gatekeeper" mentality where reviews are used to control/ criticize without providing any proper guidance can leave to probmles with development progress and erode team morale. Instead you should focus on offering helpful and objective feedback that is aligned with the teams standards.
+Code reviews should have a supportive environment for improving the codebase and team skills. Adopting a "gatekeeper" mentality where reviews are used to control/ criticize without providing any proper guidance can leave to problems with development progress and erode team morale. Instead you should focus on offering helpful and objective feedback that is aligned with the teams standards.
