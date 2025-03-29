@@ -14,6 +14,7 @@ A code review is the process where one or more developers look over someone else
 - Schedule regular code reviews
 - Ensure code meets all standards before pushing
 - Include detailed pull review descriptions
+- Look at code reviews as collaborative opportunities
 
 ## Dont’s
 - Let pull requests sit idle
@@ -25,6 +26,7 @@ A code review is the process where one or more developers look over someone else
 - Postpone reviews
 - Push code without meeting standards
 - Submit vague pull requests
+- Block changes or push personal preferences
 
 ## Full Guidelines for Best Practices
 
@@ -63,3 +65,7 @@ All code that is pushed and waiting to be merged needs to meet standard set by r
 **9. Provide Clear Pull Request Descriptions**
 
 Before submitting a pull request, include a detailed description of the changes made and the reason why you made them. This helps reviewers quickly understand the purpose of the update, leading to more effective reviews.
+
+**10. Avoid "gatekeeper" mentality**
+
+Code reviews should have a supportive environment for improving the codebase and team skills. Adopting a "gatekeeper" mentality where reviews are used to control/ criticize without providing any proper guidance can leave to problems with development progress and erode team morale. Instead you should focus on offering helpful and objective feedback that is aligned with the teams standards.
