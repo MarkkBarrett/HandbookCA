@@ -15,6 +15,8 @@ Maintainable code relates to the point that written code should be clear, concis
 - Use relevent names for variables/ functions
 - Write unit tests for key functions
 - Keep a clear README and setup instructions to help others
+- Use straightforward data structures
+- Follow SOLID principles
 
 
 ## Dont’s
@@ -28,6 +30,8 @@ Maintainable code relates to the point that written code should be clear, concis
 - Mix differant naming styles
 - Skip testing to save time
 - Assume others will figure it out from code alone
+- Overcomplicate designs
+- Combine multiple responsibilites in a single class
 
 ## Full Guidelines for Best Practices
 
@@ -67,5 +71,11 @@ Unit testing protects code from regressions and helps ensure future changes dont
 
 Every project should have a basic documentation explaining the setup process and contain an overview. Clear documentaion speeds up onboarding, reduces mistakes and helps the team work independently without asking the same questions over and over again. 
 
+**10. Keep the code simple**
 
+No one likes when something is overcomplicated, especially a team of developers! Make sure when designing your code you keep simplicity in mind. Try and use straightforward data structures to reduce the complexity and improve the readability for it to be reviewed.
+
+**11. Follow SOLID principles**
+
+The SOLID principles include Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. They are essential for keeping code maintainable. Following these principles enhances flexibility and scability, improves the code clarity, and reduces the risk of bugs. By designing with these principles in mind, you create a codebase that is robust, flexible, and maintainable.
 
