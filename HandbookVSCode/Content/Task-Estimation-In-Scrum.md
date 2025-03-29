@@ -13,6 +13,8 @@ Task estimation in Scrum is a collaborative process where the team assesses how 
 - Use techniques to encourage team collaboration
 - Treat estimate as prediction
 - Balance effort and value for prioritization
+- Include only essential team members
+- Timebox sessions to maintain focus
 
 ## Dont’s
 - Convert story points into hours
@@ -23,6 +25,8 @@ Task estimation in Scrum is a collaborative process where the team assesses how 
 - Let individual biases override team input
 - Treat estimate as a deadline
 - Prioritize only on business value
+- Avoid crowding meeting with outsiders
+- Let estimation meetings drag on
 
 ## Full Guidelines for Best Practices
 
@@ -57,3 +61,14 @@ An estimate is a prediction, not a definite. In Scrum, story points help plan ou
 **8. Include Effort in Prioritization Decisions**
 
 Use story point estimates to help order your backlog, not just based on business value but also by considering the amount of effort required. Knowing the effort involved helps you decide whether to tackle several small tasks or one large complex task that might span multiple sprints. By balancing effort with value, your team can better prioritize items in the backlog.
+
+**9. Invite Only the Right Participants**
+
+Limit estimation meetings to people who are directly involved in delivering the work. This generally means the whole development team, the srum master and the product owner. Don’t overcrowd the meeting with observers, and make sure non-developers don’t dominate the discussion​. Having the right mix of participants ensures effective conversations and keeps the meeting productive​.
+
+**10. Timebox Your Estimation Sessions**
+
+Set a reasonable time limit on how long the team spends estimating in one go. Dragging on for hours effects focus and wastes time that could be spent elsewhere​. Aim for no more than 2–4 hours maximum per session​. When meetings drag on for hours, they often lose momentum. Timeboxing helps maintain productivity and keeps estimation sessions purposeful.
+
+
+
